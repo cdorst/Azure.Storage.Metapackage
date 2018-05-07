@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/Azure.Storage.Metapackage/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Azure.Storage.Metapackage</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Azure.Storage.Metapackage</RepositoryUrl>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="WindowsAzure.Storage" Version="9.1.0" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.1.1" />
   </ItemGroup>
 
 </Project>
